@@ -1,4 +1,4 @@
-# Toast Wallet core
+# Toast Wallet core clone
 This contains the core javascript and css of the wallet. Each specific platform has a repo that wraps the html5 app.
 # Minimalist wallet.
 We'll be building from the functionality of https://github.com/jatchili/minimalist-ripple-client
