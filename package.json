@@ -1,7 +1,7 @@
  {
-  "name": "ToastWallet clone",
+  "name": "Paradox Wallet",
   "version": "2.2.16",
-  "description": "Toast Wallet clone is a Ripple clone wallet for Android and iOS.",
+  "description": "Paradox Wallet is a Ripple clone wallet for Android and iOS.",
   "main": "electron-start.js",
   "scripts": {
     "start": "electron ."
