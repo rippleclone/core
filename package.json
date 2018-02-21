@@ -1,12 +1,12 @@
-{
-  "name": "ToastWallet",
+ {
+  "name": "ToastWallet clone",
   "version": "2.2.16",
-  "description": "Toast Wallet is a Ripple wallet for Android and iOS.",
+  "description": "Toast Wallet clone is a Ripple clone wallet for Android and iOS.",
   "main": "electron-start.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/ToastWallet/core",
+  "repository": "https://github.com/rippleclone/core/",
   "keywords": [
     "XRP",
     "Ripple",
@@ -20,7 +20,7 @@
     "electron-builder": "^19.19.1"
   },
   "build": {
-    "appId": "com.toastwallet.core",
+    "appId": "com.toastwalletclone.core",
     "compression": "maximum",
     "win": {
       "target": "appx",
